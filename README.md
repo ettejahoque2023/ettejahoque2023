@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **ettejahoque2023@gmail.com**
 - ⚡ Fun fact: *I love debugging more than coding 🐛💻*
+- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ---
 
@@ -36,5 +38,4 @@
 
 ---
 
-### 💻 Coding GIF (optional):
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
